@@ -1,7 +1,7 @@
 # Talk to your Credit Card part 1
 
 This app shows how to talk with a Credit Card and get information's like the Credit Card number, 
-the card's expiration date and some other data.
+the card's expiration date and some other data. 
 
 A general description can be found in an article series on medium.com:
 
